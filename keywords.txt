@@ -1,0 +1,57 @@
+#######################################
+# Syntax Coloring Map For ArdOSC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OSCClient	KEYWORD1
+OSCServer	KEYWORD1
+OSCMessage	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+
+send	KEYWORD2
+
+begin	KEYWORD2
+stop	KEYWORD2
+aviableCheck	KEYWORD2
+addCallback	KEYWORD2
+
+flush	KEYWORD2
+setAddress	KEYWORD2
+
+setIpAddress	KEYWORD2
+getIpAddress	KEYWORD2
+
+setPortNumber	KEYWORD2
+getPortNumber	KEYWORD2
+
+setOSCAddress	KEYWORD2
+getOSCAddress	KEYWORD2
+
+beginMessage	KEYWORD2
+getArgsNum	KEYWORD2
+getArgTypeTag	KEYWORD2
+
+addArgInt32	KEYWORD2
+getArgInt32	KEYWORD2
+
+addArgFloat	KEYWORD2
+getArgFloat	KEYWORD2
+
+addArgString	KEYWORD2
+getArgString	KEYWORD2
+getArgStringSize	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
